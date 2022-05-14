@@ -16,3 +16,4 @@
     
 ### Example Package
 - https://github.com/jirvingphd/cdds
+- Generated Documentation: https://bs-ds.readthedocs.io/en/latest/index.html
