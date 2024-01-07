@@ -1,8 +1,9 @@
 # making-your-own-python-modules-and-package
 
 - [Companion Slides](https://docs.google.com/presentation/d/1JwsZKvLsPh0JJ1XrtC9k7C_NP6hl8H4gj9lNmRMGyrk/edit?usp=sharing)
-
-
+- [Video Recording](https://youtu.be/8WJyabUoJdw)
+- [Slide Deck](https://docs.google.com/presentation/d/1JwsZKvLsPh0JJ1XrtC9k7C_NP6hl8H4gj9lNmRMGyrk/edit?usp=sharing)
+  
 ## Table of Contents
 
 - In `1_Creating Your Own Python Modules & Package.ipynb`:
@@ -16,4 +17,4 @@
     
 ### Example Package
 - https://github.com/jirvingphd/cdds
-- Generated Documentation: https://bs-ds.readthedocs.io/en/latest/index.html
+<!-- - Generated Documentation: https://bs-ds.readthedocs.io/en/latest/index.html -->
